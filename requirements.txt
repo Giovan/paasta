@@ -85,7 +85,7 @@ typing==3.6.2
 typing-extensions==3.6.2.1
 tzlocal==1.2
 ujson==1.35
-urllib3==1.22
+urllib3==1.24.2
 utaw==0.2.0
 venusian==1.1.0
 webcolors==1.7
