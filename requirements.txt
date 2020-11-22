@@ -33,7 +33,7 @@ hupper==1.0
 idna==2.6
 inotify==0.2.8
 isodate==0.5.1
-Jinja2==2.10
+Jinja2==2.10.1
 jinja2-time==0.1.0
 jmespath==0.9.3
 jsonref==0.1
